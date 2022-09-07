@@ -1,4 +1,4 @@
-### Tour-Is-More
+## Tour-Is-Me
 
 A tourism realted platform for travel enthusiastics of Bangladesh.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). I have also used [TailWindCSS](https://tailwindcss.com/) as the CSS framework and [MongoDB Atlas](https://www.mongodb.com/atlas/database) for storing data.
@@ -19,4 +19,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# Thank you for checking out my project. Please leave a star if you like it and want to encourge me.
+### Thank you for checking out my project. Please leave a star if you like it and want to encourge me.
